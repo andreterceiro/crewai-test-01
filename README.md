@@ -6,6 +6,11 @@
 ```sh
 pip install crewai
 ```
+
+
+## Criar uma API key da Open AI
+
+Acesse [este link](https://platform.openai.com) e crie uma API key, pois neste exemplo inicial usarmos a API da OPEN AI. Mas n&atilde;o consome nem $0.01.
  
 
 # Passos para execu&ccedil;&atilde;o
