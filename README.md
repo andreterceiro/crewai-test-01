@@ -17,3 +17,8 @@ python index.py
 C:\srv\www\raiz\python\crewai\01>python --version
 Python 3.13.14
 ```
+
+
+# Exemplo de sa&iacute;da da exec&ccedil;&atilde;o do index.py
+
+![Exemplo de execu&ccedil;&atilde;o](documentation-images/exemplo-execucao.png)
