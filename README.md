@@ -9,3 +9,11 @@
 ```sh
 python index.py
 ```
+
+
+# Vers&atilde;o de Python testada
+
+```sh
+C:\srv\www\raiz\python\crewai\01>python --version
+Python 3.13.14
+```
