@@ -27,3 +27,8 @@ Python 3.13.14
 # LLM usada
 
 Em um curso estudamos a integra&ccedil;&atilde;o com a Open AI.
+
+
+## &Eacute; poss&iacute;vel usar outro LLM?
+
+Se d&aacute; para integrar com o Gemini ou Claude ou outro? Provavelmente sim, mas nunca testei isto.
