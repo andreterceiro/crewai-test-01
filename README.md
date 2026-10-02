@@ -19,6 +19,11 @@ Python 3.13.14
 ```
 
 
-# Exemplo de sa&iacute;da da exec&ccedil;&atilde;o do index.py
+# Exemplo de sa&iacute;da da execu&ccedil;&atilde;o do index.py
 
 ![Exemplo de execu&ccedil;&atilde;o](documentation-images/exemplo-execucao.png)
+
+
+# LLM usada
+
+Em um curso estudamos a integra&ccedil;&atilde;o com a Open AI.
