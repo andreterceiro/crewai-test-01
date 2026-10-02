@@ -1,3 +1,13 @@
+# Tarefas iniciais
+
+
+## Instalar o CrewAI
+
+```sh
+pip install crewai
+```
+ 
+
 # Passos para execu&ccedil;&atilde;o
 
 &Eacute; bem simples:
